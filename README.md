@@ -1,5 +1,6 @@
-# objects
-dofufa objects
+# dofufa-objects
+
+A partial list.
 
 | object name | description |
 |:--:|:--|
