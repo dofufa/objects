@@ -2,7 +2,7 @@
 
 A partial list.
 
-| object name | description |
+| object | description |
 |:--:|:--|
 | **dofufa-chop** | standard Chinese or Korean seal chop API |
 | **dofufa-kbdate** | standard knowledge base identifier |
